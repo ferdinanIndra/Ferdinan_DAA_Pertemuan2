@@ -1,0 +1,8 @@
+import numpy as np
+
+#array
+nilai_mahasiswa = np.array([77, 45, 95, 80])
+
+print(nilai_mahasiswa[2])
+
+#Hasil:95 
