@@ -1,0 +1,2 @@
+if 8 > 4:
+    print("Delapan lebih besar dari pada empat")
