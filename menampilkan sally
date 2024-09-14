@@ -1,0 +1,4 @@
+#menampilkan sally
+y=4
+y="sally"
+print(y) #menampilkan sally
